@@ -10,6 +10,9 @@ Este proyecto es una aplicación de *Diario de Notas* desarrollada en *React, co
 - **Cloudinary** para la subida de imágenes.
 - **Thunks** para manejar acciones asíncronas.
 - **React Router** para la navegación.
+  
+## Deploy
+https://journal-app-shdez4.netlify.app/
 
 
 https://github.com/user-attachments/assets/8e02b477-5417-47da-90f8-a5c748e11c80
