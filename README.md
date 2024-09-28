@@ -17,4 +17,6 @@ Este proyecto es una aplicación de *Diario de Notas* desarrollada en *React, co
 - *CRUD completo de notas, con almacenamiento en **Firestore*.
 - *Subida de imágenes* a *Cloudinary*.
 - *Gestión del estado de autenticación* y persistencia de datos en toda la aplicación.
-https://github.com/user-attachments/assets/cd539811-0aaa-439a-bd39-b065519cf988
+
+[https://github.com/user-attachments/assets/cd539811-0aaa-439a-bd39-b065519cf988](https://github.com/user-attachments/assets/a14bf174-dbd1-42a5-b468-c2e62537bd9d
+)
